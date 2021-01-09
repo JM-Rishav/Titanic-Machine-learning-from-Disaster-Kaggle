@@ -7,4 +7,6 @@
   <br> * Exploratory Data Analysis </br>
   <br> * Feature engineering </br>
   <br> * Feature Selection </br>
+  <br> * Modeling </br>
+  <br> * Testing </br>
 </div>
