@@ -2,5 +2,7 @@
 
 <div>
   <h2> Predict surival on the titanic</h2>
-  <br></br>
+  <br> * Defining the problem statement</br>
+  <br> * Collecting Data </br>
+  <br> * Exploratory Data Analysis </br>
 </div>
