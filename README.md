@@ -5,4 +5,6 @@
   <br> * Defining the problem statement</br>
   <br> * Collecting Data </br>
   <br> * Exploratory Data Analysis </br>
+  <br> * Feature engineering </br>
+  <br> * Feature Selection </br>
 </div>
