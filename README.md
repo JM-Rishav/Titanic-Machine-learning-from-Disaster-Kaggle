@@ -16,6 +16,15 @@
   
 Complete the analysis of what sort of people were likely to survive.
 In particularly, we ask you to apply the tools of machine learning to predict which passengers survived the tragedy
+</div>
 
-<br><h3> Data Dictionary </h3></br>
+<div>
+  <h3> Data Dictionary </h3>
+* Survived : 0 = No, 1 = Yes
+* Pclass : Ticket class 1 = 1st, 2 = 2nd, 3 = 3rd
+* SibSp : # of sibling / spouses aboard the Titanic
+* Parch : # of parents / children aboard the Titanic
+* Ticket : Ticket number
+* Cabin : Cabin number
+* Embarked : Port of Embarkation C = Cherbourg, Q = Queenstown, S = Southampton
 </div>
