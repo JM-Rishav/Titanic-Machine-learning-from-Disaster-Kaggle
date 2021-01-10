@@ -30,3 +30,17 @@ In particularly, we ask you to apply the tools of machine learning to predict wh
 * Embarked : Port of Embarkation C = Cherbourg, Q = Queenstown, S = Southampton
 
 </div>
+
+<div>
+  <h3> Exploratory Data Analysis </h3>
+  
+  Bar chart for categorical values
+  
+* Pclass
+* Sex
+* SibSp (# of sibling and spouse)
+* Parch (# of parents and children)
+* Embarked
+* Cabin
+  
+</div>  
