@@ -13,6 +13,7 @@
 
 <div>
 <h3> 1. Defining the problem statement <h3>
+  
 Complete the analysis of what sort of people were likely to survive.
 In particularly, we ask you to apply the tools of machine learning to predict which passengers survived the tragedy
 </div>
