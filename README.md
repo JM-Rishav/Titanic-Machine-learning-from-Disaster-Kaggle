@@ -61,5 +61,7 @@ In particularly, we ask you to apply the tools of machine learning to predict wh
  Feature engineering is the process of using domain knowledge of the data to create features (feature vectors) that make machine learning algorithms work.
 
  feature vector is an n-demensional vector of numerical features that represent some object. Many algorithms in machine learning require a numerical representation of objects,    since such representations facilitate processsing and statistical analysis.
-
+<br></br>
+sank from the bow of the ship where third class rooms located conclusion, Pclass is key feature for classifier
+<img src = "https://static1.squarespace.com/static/5006453fe4b09ef2252ba068/t/5090b249e4b047ba54dfd258/1351660113175/TItanic-Survival-Infographic.jpg?format=1500w">
 </div> 
