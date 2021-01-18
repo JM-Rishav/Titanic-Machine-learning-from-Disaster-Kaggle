@@ -65,3 +65,15 @@ In particularly, we ask you to apply the tools of machine learning to predict wh
 sank from the bow of the ship where third class rooms located conclusion, Pclass is key feature for classifier
 <img src = "https://static1.squarespace.com/static/5006453fe4b09ef2252ba068/t/5090b249e4b047ba54dfd258/1351660113175/TItanic-Survival-Infographic.jpg?format=1500w">
 </div> 
+
+<div>
+  <h3> Modeling <h3>
+    Explanation
+    1. 
+    2.
+    3.
+    4.
+    5.
+    6.
+    
+</div>
