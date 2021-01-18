@@ -46,7 +46,7 @@ In particularly, we ask you to apply the tools of machine learning to predict wh
   
 <img src="https://github.com/JM-Rishav/Titanic-Machine-learning-from-Disaster-Kaggle/blob/main/Data/Pclass_bar_chart.png" width="900" height="400">
 
-<img src="https://github.com/JM-Rishav/Titanic-Machine-learning-from-Disaster-Kaggle/blob/main/Data/sex_bar_chart.png">
+<img src="https://github.com/JM-Rishav/Titanic-Machine-learning-from-Disaster-Kaggle/blob/main/Data/sex_bar_chart.png" width="900" height="400">
   
 </div>  
 
