@@ -44,7 +44,7 @@ In particularly, we ask you to apply the tools of machine learning to predict wh
 * Embarked
 * Cabin
   
-<img src="https://github.com/JM-Rishav/Titanic-Machine-learning-from-Disaster-Kaggle/blob/main/Data/Pclass_bar_chart.png" width="200" height="40">
+<img src="https://github.com/JM-Rishav/Titanic-Machine-learning-from-Disaster-Kaggle/blob/main/Data/Pclass_bar_chart.png" width="1200" height="1400">
 
 <img src="https://github.com/JM-Rishav/Titanic-Machine-learning-from-Disaster-Kaggle/blob/main/Data/sex_bar_chart.png">
   
