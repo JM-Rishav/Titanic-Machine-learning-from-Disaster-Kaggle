@@ -103,5 +103,8 @@ sank from the bow of the ship where third class rooms located conclusion, Pclass
    <br> The decision boundary is presented by red line. On one side simsons survives, well on the other side he is dead. </br>
    
 </div>
+<br></br>
+<div>
+  <h4> Well one can always use other different and advanced approaches to solve the problem. This was all from my side of approach and thank you. <h4>
 
-
+</div>
