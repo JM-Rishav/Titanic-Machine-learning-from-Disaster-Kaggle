@@ -73,15 +73,19 @@ sank from the bow of the ship where third class rooms located conclusion, Pclass
    <img src="https://github.com/JM-Rishav/Titanic-Machine-learning-from-Disaster-Kaggle/blob/main/Data/Titanic_ML_1.png">
     
    <br></br>
-   <h2> 1. KNN </h2>
+   <h4> 1. KNN </h4>
    <img src="https://github.com/JM-Rishav/Titanic-Machine-learning-from-Disaster-Kaggle/blob/main/Data/Titanic_ML_2.png">
    <br> for k = 3, 2 survived and one dead, so simsons survived </br>
    
    <br></br>
    <img src="https://github.com/JM-Rishav/Titanic-Machine-learning-from-Disaster-Kaggle/blob/main/Data/Titanic_ML_2.png">
    <br>for k = 5, 3 dead and 2 survived, so simsons survived</br>
+   Well, one can recognize that prediction depends on the value of k.
    
-   2.
+   <br></br>
+   <h4> 2. Decision Tree </h4>
+   <img src="https://github.com/JM-Rishav/Titanic-Machine-learning-from-Disaster-Kaggle/blob/main/Data/Titanic_ML_4.png">
+   <br> Dicision tree uses all the feature in the data set and uses them to predict the result </br>
     3.
     4.
     5.
