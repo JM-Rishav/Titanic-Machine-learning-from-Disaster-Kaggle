@@ -86,9 +86,22 @@ sank from the bow of the ship where third class rooms located conclusion, Pclass
    <h4> 2. Decision Tree </h4>
    <img src="https://github.com/JM-Rishav/Titanic-Machine-learning-from-Disaster-Kaggle/blob/main/Data/Titanic_ML_4.png">
    <br> Dicision tree uses all the feature in the data set and uses them to predict the result </br>
-    3.
-    4.
-    5.
-    6.
     
+   <br></br>
+   <h4> 3. Random forest </h4>
+   <img src="https://github.com/JM-Rishav/Titanic-Machine-learning-from-Disaster-Kaggle/blob/main/Data/Titanic_ML_5.png">
+   <br> This classifier is like having multiple small decision tree inside, each small tree has subset of features from data set and there answer may vary. Two trees predicted dead and one survived, so simsons is dead. </br>
+   
+   <br></br>
+   <h4> 4. Naive bayes </h4>
+   <img src = "https://github.com/JM-Rishav/Titanic-Machine-learning-from-Disaster-Kaggle/blob/main/Data/Titanic_ML_6.png">
+   <br> This classifier uses probability for the prediction. If we suppose it has only 2 features, it could be put on the equation for the pridiction. </br>
+   
+   <br></br>
+   <h4> 5. SVM (Support Vector Machine) </h4>
+   <img src = "https://github.com/JM-Rishav/Titanic-Machine-learning-from-Disaster-Kaggle/blob/main/Data/Titanic_ML_7.png">
+   <br> The decision boundary is presented by red line. On one side simsons survives, well on the other side he is dead. </br>
+   
 </div>
+
+
