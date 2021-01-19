@@ -68,8 +68,13 @@ sank from the bow of the ship where third class rooms located conclusion, Pclass
 
 <div>
   <h3> Modeling <h3>
-    Explanation
-    1. 
+    Explanation :- lets consider that simsons survived or not. 
+    <img src="https://github.com/JM-Rishav/Titanic-Machine-learning-from-Disaster-Kaggle/blob/main/Data/Titanic_ML_1.png">
+    For better understanding, we consider there is only 2 features in the data represented on x-axis and y-axis.
+    
+    1. KNN 
+       <img src="https://github.com/JM-Rishav/Titanic-Machine-learning-from-Disaster-Kaggle/blob/main/Data/Titanic_ML_2.png">
+       for k = 3, 2 survived and one dead, so simsons survived
     2.
     3.
     4.
